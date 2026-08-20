@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
