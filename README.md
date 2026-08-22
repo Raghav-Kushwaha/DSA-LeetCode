@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
