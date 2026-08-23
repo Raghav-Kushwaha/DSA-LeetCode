@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
+| [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
