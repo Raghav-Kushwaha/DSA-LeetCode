@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## Simulation
 |  |
 | ------- |
