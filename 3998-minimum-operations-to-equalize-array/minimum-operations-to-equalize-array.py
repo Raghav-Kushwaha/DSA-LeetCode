@@ -1,12 +1,5 @@
 class Solution:
     def minOperations(self, nums: List[int]) -> int:
-        prev=nums[0]
-        bit=False
-        for i in nums:
-            if i!=prev:
-                bit = True
-            prev=i
-        if bit:
-            return 1
-        else:
+        if len(set(nums))==1:
             return 0
+        return 1
