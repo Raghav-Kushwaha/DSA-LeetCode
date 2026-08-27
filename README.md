@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
