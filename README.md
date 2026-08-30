@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
