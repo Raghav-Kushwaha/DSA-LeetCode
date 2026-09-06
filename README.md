@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
