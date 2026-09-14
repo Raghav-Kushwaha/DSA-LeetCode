@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -144,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
