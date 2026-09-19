@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -146,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
