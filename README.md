@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Brainteaser
 |  |
