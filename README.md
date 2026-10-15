@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 ## String
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
