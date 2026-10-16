@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
