@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1200-minimum-absolute-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
