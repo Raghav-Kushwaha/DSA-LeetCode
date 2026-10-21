@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1200-minimum-absolute-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
