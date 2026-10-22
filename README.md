@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -236,5 +239,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
