@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
