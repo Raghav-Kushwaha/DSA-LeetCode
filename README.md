@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1200-minimum-absolute-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0970-powerful-integers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
