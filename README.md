@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1927-sum-game](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
