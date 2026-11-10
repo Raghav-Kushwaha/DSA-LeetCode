@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3527-find-the-most-common-response) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3693-climbing-stairs-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Raghav-Kushwaha/DSA-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
